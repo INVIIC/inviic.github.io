@@ -5,7 +5,7 @@ permalink: /
 subtitle: Instituto de Investigación Virtual para el estudio general de la Inteligencia y la Cognición
 
 profile:
-  align: top
+  align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: #>
