@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-El Instituto de Investigación Virtual para el estudio general de la Inteligencia y la Cognición es una institución dedicada a promover la comprensión y mejora de la inteligencia artificial y la cognición humana. Nuestro enfoque principal es fomentar la diversidad en la investigación, brindando oportunidades a personas con diversas experiencias para contribuir al campo académico.
+El Instituto de Investigación Virtual para el estudio general de la Inteligencia y la Cognición (INVIIC) es una institución dedicada a promover la comprensión y mejora de la inteligencia artificial y la cognición humana. Nuestro enfoque principal es fomentar la diversidad en la investigación, brindando oportunidades a personas con diversas experiencias para contribuir al campo académico.
 
 Creemos en un enfoque humano hacia los investigadores y la investigación, creando un entorno que permita a las personas desarrollarse tanto personal como profesionalmente. Reconocemos que la carrera académica tradicional puede ser exigente y restrictiva, por lo que trabajamos para establecer estructuras que respalden a científicos independientes para poder desarrollar sus investigaciones.
 
