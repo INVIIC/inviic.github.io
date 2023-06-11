@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Instituto de Investigación Virtual para el estudio general de la Inteligencia y la Cognición
+subtitle: <h5>Instituto de Investigación Virtual para el estudio general de la Inteligencia y la Cognición<h5>
 
 profile:
   align: right
