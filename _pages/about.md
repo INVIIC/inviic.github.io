@@ -6,7 +6,7 @@ subtitle: <h5>Instituto de Investigación Virtual para el estudio general de la 
 
 profile:
   align: right
-  image: prof_pic.png
+  image: 
   image_circular: false # crops the image to make it circular
   address: #>
     #<p>555 your office number</p>
