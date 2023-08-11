@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://inviic.github.io/sitemap.xml
+Sitemap: https://inviic.org/sitemap.xml
